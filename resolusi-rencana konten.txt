@@ -6,6 +6,7 @@ rencana konten resolusi
 ^vue
 ^laravel
 ^phyton
+^react
 -kotlin
 -struktur dasa dasar
 -interviw
