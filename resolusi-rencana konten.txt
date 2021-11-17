@@ -3,6 +3,10 @@ rencana konten resolusi
 -java script
 *es6
 *framwork java script
+^vue
+^laravel
+^phyton
+^react
 -kotlin
 -struktur dasa dasar
 -interviw
