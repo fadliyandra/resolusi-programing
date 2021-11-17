@@ -1,6 +1,8 @@
 rencana konten resolusi
 
 -java script
+*es6
+*framwork java script
 -kotlin
 -interviw
 -vlog
