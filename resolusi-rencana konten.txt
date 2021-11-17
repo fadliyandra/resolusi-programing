@@ -4,6 +4,7 @@ rencana konten resolusi
 *es6
 *framwork java script
 -kotlin
+-struktur dasa dasar
 -interviw
 -vlog
 
