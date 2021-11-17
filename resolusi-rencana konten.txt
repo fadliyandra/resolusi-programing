@@ -8,7 +8,6 @@ rencana konten resolusi
 ^phyton
 ^react
 -kotlin
--struktur dasa dasar
 -interviw
 -vlog
 
