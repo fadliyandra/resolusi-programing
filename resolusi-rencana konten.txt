@@ -3,8 +3,11 @@ rencana konten resolusi
 -java script
 *es6
 *framwork java script
+^angular
+^react
+-PHP framworks
+^laravel
 -kotlin
--struktur dasa dasar
 -interviw
 -vlog
 
