@@ -1,0 +1,7 @@
+rencana konten resolusi
+
+-java script
+-kotlin
+-interviw
+-vlog
+
